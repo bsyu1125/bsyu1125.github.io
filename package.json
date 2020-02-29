@@ -1,0 +1,21 @@
+{
+  "name": "bsyu1125.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bsyu1125/bsyu1125.github.io.git",
+  "author": "Brian Yu <brianyu1125@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.7.6",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/jest": "^25.1.3"
+  }
+}
